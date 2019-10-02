@@ -1,1 +1,1 @@
-﻿Turn this App into one wich does NOT use local state (in components) but instead uses Redux.
+Turn this App into one which does NOT use local state (in components) but instead uses Redux.
